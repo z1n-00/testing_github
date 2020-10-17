@@ -1,0 +1,4 @@
+working copy
+add -> staging area
+commit -> head
+push
