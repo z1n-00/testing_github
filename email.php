@@ -8,8 +8,3 @@
 	echo"fourth line form cli";
 	echo"fourth line from online";
 
-	echo"fifth line from cli";
-
-	echo"sixth line from cli";
-	echo"sixth line from online";
-
