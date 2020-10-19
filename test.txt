@@ -23,7 +23,7 @@ Note that branch releases code complexity and risks.
 
 git int
 git log
-fit status
+git status
 git checkout -b
 git checkout
 git add
