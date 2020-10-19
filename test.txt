@@ -1,3 +1,5 @@
+Introduction to Github
+
 working copy
 add -> staging area
 commit -> head
