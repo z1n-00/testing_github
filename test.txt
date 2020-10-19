@@ -1,5 +1,9 @@
 Introduction to Github
 
+<?php
+	echo "Hello... Github!!";
+?>
+
 working copy
 add -> staging area
 commit -> head
