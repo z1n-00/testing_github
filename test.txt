@@ -2,6 +2,7 @@ Introduction to Github
 
 <?php
 	echo "Hello... Github!!";
+	echo "Hi";
 ?>
 
 working copy
@@ -19,3 +20,18 @@ production/master (branch)
 	-compelete
 
 Note that branch releases code complexity and risks.
+
+git int
+git log
+fit status
+git checkout -b
+git checkout
+git add
+git add .
+git commit -u		//first time
+git commit -m
+git stash
+git push
+git pull
+git fetch
+
